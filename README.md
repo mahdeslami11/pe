@@ -28,6 +28,17 @@
 
 
 
+
+
+![cancers-15-01975-g002](https://github.com/shabnammlatifian1994/pe/assets/136373724/04bbe7bf-496b-4431-bb32-39243f2534e3)
+
+
+
+
+
+
+
+
  Positron emission tomography (PET) is a molecular imaging technique that provides a 3D
 image of functional processes in the body in vivo. Some of the radionuclides proposed for PET imaging emit high-energy positrons, which travel some distance before they annihilate (positron range),
 creating significant blurring in the reconstructed images. Their large positron range compromises the
