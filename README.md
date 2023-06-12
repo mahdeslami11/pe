@@ -64,6 +64,9 @@ accurate positron range correction in a few seconds for a typical PET acquisitio
 
 
 ----------my link of videos that i have explained about my main article---------------
+
+
+
 1--https://drive.google.com/file/d/1r7Zweb6VdDOWChB4qBmFgM2k8iv6yw73/view?usp=drive_web
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/d517aa27-b74e-4887-975d-9e79d1801705)
 
@@ -121,7 +124,22 @@ https://drive.google.com/file/d/1y0NQRD4CKhcppf44b2JIbmGs8CvH9byC/view?usp=drive
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/1b4891c8-2fda-4b15-b555-81810116d949)
 
 
+
+
+
+
+
+
+
+
 --------------------the link of my video about my article base on my main article----------------
+
+
+
+
+
+
+
 
 1--https://drive.google.com/file/d/1tSeHA4zKySb7lAe7J33nwEf-wj3XeaZX/view?usp=drive_web
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/6a607276-b3a9-4ab7-9758-308654614f43)
@@ -170,7 +188,9 @@ https://drive.google.com/file/d/1y0NQRD4CKhcppf44b2JIbmGs8CvH9byC/view?usp=drive
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/2124f9b9-f230-4134-b637-b4c32a88ed82)
 
 
------------ the link of my main article-----
+
+
+
 
 
 
