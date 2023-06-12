@@ -40,6 +40,18 @@ images corrected with Deep-PRC showed that it was able to restore the images by 
 any significant noise increase. The proposed method, which is accessible via Github, can provide an
 accurate positron range correction in a few seconds for a typical PET acquisition.
 
+
+![POS2](https://github.com/shabnammlatifian1994/pe/assets/136373724/8fb43a20-4ee8-4ca8-8bdd-275f81d1d117)
+
+
+
+
+
+
+
+
+
+
 ----------my link of videos that i have explained about my main article---------------
 1--https://drive.google.com/file/d/1r7Zweb6VdDOWChB4qBmFgM2k8iv6yw73/view?usp=drive_web
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/d517aa27-b74e-4887-975d-9e79d1801705)
