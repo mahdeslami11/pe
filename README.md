@@ -1,5 +1,21 @@
 # Studying the effect of adjacent internal organs with liver cancer on the quality of PET imaging using Monte Carlo simulation method
 
+
+![pet-ct-scan-imaging-machine](https://github.com/shabnammlatifian1994/pe/assets/136373724/22437583-7c8f-40bf-ae49-3dffb68f2d83)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  Today, with the expansion of engineering science and its integration with medicine, we are witnessing the emergence of advanced devices and equipment that make it easier and more accurate to diagnose or treat a disease. The PET positron emission tomography device is one of these devices that provides a three-dimensional image of the tissue in question to specialists.0 In this study, we examine the shortcomings, the causes of image quality reduction and crystallization in these images, which can be caused by reasons such as the distance traveled by the positron before From the destruction, the effect of other parts of the body adjacent to the target tissue, especially in the case of liver cancer the liver or the amount of radionuclide absorption by cancerous tissue. Here, we trained using a neural network called DEEP-PRC using Monte Carlo simulation tool to correct and reconstruct PET images. The results show that this neural network can correct images up to 95% without Any significant increase in noise will provide 
 
 
@@ -121,9 +137,7 @@ https://drive.google.com/file/d/1y0NQRD4CKhcppf44b2JIbmGs8CvH9byC/view?usp=drive
 
 3--https://drive.google.com/file/d/1dJuCI5ZpZY1sc04Jf6GI08UVtNjSWkuY/view?usp=drive_web
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/3c4ff139-6e20-4e07-9ef0-a24b67f66bc7)
-
-![pet-ct-scan-imaging-machine](https://github.com/shabnammlatifian1994/pe/assets/136373724/0fb82947-c0d0-4430-999b-8b663592517c)
-![pet-ct-scan-imaging-machine](https://github.com/shabnammlatifian1994/pe/assets/136373724/2dac0bca-608a-4b4c-8950-c6c871f7ddfb)
+)
 
 4--https://drive.google.com/file/d/1KjUgrGeDnQ3o_Gee639eVU5Jnq3WUQmK/view?usp=drive_web
 ![image](https://github.com/shabnammlatifian1994/pe/assets/136373724/66d730bb-db80-4410-8e93-6c79c480ebfb)
