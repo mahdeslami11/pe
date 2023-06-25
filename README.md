@@ -224,7 +224,14 @@ https://colab.research.google.com/github/jlherraiz/deepPRC/blob/main/PRC_GFN_UCM
 https://github.com/tensorflow/addons
 
 
+----------the link of my video about my source code in this project---------------------
 
+
+
+
+
+
+https://drive.google.com/file/d/17FAYrXUvD_QcAqjPNPoLicNqNOelW1pJ/view?usp=drive_link
 
 
 
