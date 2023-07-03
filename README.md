@@ -227,11 +227,10 @@ https://github.com/tensorflow/addons
 ----------the link of my video about my source code in this project---------------------
 
 
+https://drive.google.com/file/d/17sLsxGe7fmkFA2qoID_1NQeZhUDdrYyF/view?usp=drive_link
 
+![image](https://github.com/mahdeslami11/pe/assets/136373724/3a97fcf7-95f9-413d-bc2d-f617e993e6d5)
 
-
-
-https://drive.google.com/file/d/17FAYrXUvD_QcAqjPNPoLicNqNOelW1pJ/view?usp=drive_link
 
 
 
